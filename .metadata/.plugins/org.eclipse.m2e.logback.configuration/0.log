@@ -29,3 +29,4 @@
 2022-04-05 17:32:26,489 [Worker-5: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\Documents\asessment\abc
 2022-04-05 17:32:26,490 [Worker-5: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
 2022-04-05 17:32:47,409 [Worker-5: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\Documents\asessment\abc
+2022-04-05 17:32:47,409 [Worker-5: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
