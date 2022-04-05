@@ -1,0 +1,31 @@
+2022-04-05 17:28:40,831 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-05 17:30:07,174 [Worker-5: Creating project "abc"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sap:abc:0.0.1-SNAPSHOT @ C:\Users\Admin\Documents\asessment\abc\pom.xml.
+2022-04-05 17:30:07,631 [Worker-5: Creating project "abc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abc/src/main/java
+2022-04-05 17:30:07,632 [Worker-5: Creating project "abc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /abc/src/main/resources
+2022-04-05 17:30:07,634 [Worker-5: Creating project "abc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abc/src/test/java
+2022-04-05 17:30:07,634 [Worker-5: Creating project "abc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /abc/src/test/resources
+2022-04-05 17:30:09,173 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 17:30:09,178 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 17:30:09,180 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 17:30:09,181 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 17:30:44,852 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sap:abc:0.0.1-SNAPSHOT @ C:\Users\Admin\Documents\asessment\abc\pom.xml.
+2022-04-05 17:30:44,977 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 17:30:44,979 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 17:30:44,982 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 17:30:44,983 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 17:30:46,305 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 17:30:46,309 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 17:30:46,310 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 17:30:46,311 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 17:31:39,352 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-04-05 17:31:44,891 [Worker-4: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\Documents\asessment\abc
+2022-04-05 17:31:44,892 [Worker-4: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2022-04-05 17:32:01,508 [Worker-5: Launching Executing test in C__Users_Admin_Documents_asessment_abc] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\Documents\asessment\abc
+2022-04-05 17:32:01,508 [Worker-5: Launching Executing test in C__Users_Admin_Documents_asessment_abc] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2022-04-05 17:32:04,871 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 17:32:04,871 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 17:32:04,872 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-05 17:32:04,873 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-05 17:32:26,489 [Worker-5: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\Documents\asessment\abc
+2022-04-05 17:32:26,490 [Worker-5: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-04-05 17:32:47,409 [Worker-5: Launching abc] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\Documents\asessment\abc
